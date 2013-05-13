@@ -1,0 +1,449 @@
+/*
+* Rana Khalil
+* Css file for the different divs and content for both the javascript and html files
+*/
+
+
+/* this is the raphael js library file, which had the dimensions and the position*/
+#rsr {
+		position: absolute;
+		margin-left: 500px;
+		margin-top: 200px;
+		
+	}
+		
+		
+		/*
+			* Al- Shamal Area Styling and it has display to none becase we will
+			* use the jQuery Fade in and out functions to manipulate them
+			* 
+		*/
+		#shamal_water{
+			display:none;
+			position: absolute;
+			left: 1230px;
+			top: 440px;
+			font: 40px futura, sans-serif;
+		}
+		
+		#shamal_elec{
+			display:none;
+			position: absolute;
+			left: 1230px;
+			top: 670px;
+			font: 40px futura, sans-serif;
+		}
+		
+		#shamal_sewage{
+			display:none;
+			position: absolute;
+			top: 560px;
+			left: 1230px;
+			font: 40px futura, sans-serif;
+		}
+		
+		#shamal_internet{
+			display:none;
+			position: absolute;
+			top:790px;
+			left:1230px;
+			font: 40px futura, sans-serif;
+		}
+		
+		
+			
+		/*
+			* Al- Khor Area Styling and it has display to none becase we will
+			* use the jQuery Fade in and out functions to manipulate them
+			* 
+		*/
+		
+		#khor_water{
+		display:none;
+		display:none;
+		position: absolute;
+		left: 1230px;
+		top: 440px;
+		font: 40px futura, sans-serif;
+		}
+		
+		#khor_elec{
+		display:none;
+		position: absolute;
+		left: 1230px;
+		top: 670px;
+		font: 40px futura, sans-serif;
+		}
+		
+		#khor_sewage{
+		display:none;
+		position: absolute;
+		top: 560px;
+		left: 1230px;
+		font: 40px futura, sans-serif;
+		}
+		
+		#khor_internet{
+		display:none;
+		position: absolute;
+		top:790px;
+		left:1230px;
+		font: 40px futura, sans-serif;
+		}
+		
+		
+		/*
+			* Umm Slal Area Styling and it has display to none becase we will
+			* use the jQuery Fade in and out functions to manipulate them
+			* 
+		*/
+		
+		#slal_water{
+		display:none;
+		display:none;
+		position: absolute;
+		left: 1230px;
+		top: 440px;
+		font: 40px futura, sans-serif;
+		}
+		
+		#slal_elec{
+		display:none;
+		position: absolute;
+		left: 1230px;
+		top: 670px;
+		font: 40px futura, sans-serif;
+		}
+		
+		#slal_sewage{
+		display:none;
+		position: absolute;
+		top: 560px;
+		left: 1230px;
+		font: 40px futura, sans-serif;
+		}
+		
+		#slal_internet{
+		display:none;
+		position: absolute;
+		top:790px;
+		left:1230px;
+		font: 40px futura, sans-serif;
+		}
+		
+			
+		/*
+			* Al- Daayen Area Styling and it has display to none becase we will
+			* use the jQuery Fade in and out functions to manipulate them
+			* 
+		*/
+		
+		#daayen_water{
+		display:none;
+		display:none;
+		position: absolute;
+		left: 1230px;
+		top: 440px;
+		font: 40px futura, sans-serif;
+		}
+		
+		#daayen_elec{
+		display:none;
+		position: absolute;
+		left: 1230px;
+		top: 670px;
+		font: 40px futura, sans-serif;
+		}
+		
+		#daayen_sewage{
+		display:none;
+		position: absolute;
+		top: 560px;
+		left: 1230px;
+		font: 40px futura, sans-serif;
+		}
+		
+		#daayen_internet{
+		display:none;
+		position: absolute;
+		top:790px;
+		left:1230px;
+		font: 40px futura, sans-serif;
+		}
+		
+		
+		/*
+			* Doha Area Styling and it has display to none becase we will
+			* use the jQuery Fade in and out functions to manipulate them
+			* 
+		*/
+		#doha_water{
+		display:none;
+		position: absolute;
+		left: 1230px;
+		top: 440px;
+		font: 40px futura, sans-serif;
+		}
+		
+		#doha_elec{
+		display:none;
+		position: absolute;
+		left: 1230px;
+		top: 670px;
+		font: 40px futura, sans-serif;
+		}
+		
+		#doha_sewage{
+		display:none;
+		position: absolute;
+		top: 560px;
+		left: 1230px;
+		font: 40px futura, sans-serif;
+		}
+		
+		#doha_internet{
+		display:none;
+		position: absolute;
+		top:790px;
+		left:1230px;
+		font: 40px futura, sans-serif;
+		}
+		
+		
+		/*
+			* Al- Wakra Area Styling and it has display to none becase we will
+			* use the jQuery Fade in and out functions to manipulate them
+			* 
+		*/
+		#wakra_water{
+		display:none;
+		display:none;
+		position: absolute;
+		left: 1230px;
+		top: 440px;
+		font: 40px futura, sans-serif;
+		}
+		
+		#wakra_elec{
+		display:none;
+		position: absolute;
+		left: 1230px;
+		top: 670px;
+		font: 40px futura, sans-serif;
+		}
+		
+		#wakra_sewage{
+		display:none;
+		position: absolute;
+		top: 560px;
+		left: 1230px;
+		font: 40px futura, sans-serif;
+		}
+		
+		#wakra_internet{
+		display:none;
+		position: absolute;
+		top:790px;
+		left:1230px;
+		font: 40px futura, sans-serif;
+		}
+		
+		/*
+			* Al- Rayyan Area Styling and it has display to none becase we will
+			* use the jQuery Fade in and out functions to manipulate them
+			* 
+		*/
+		#rayyan_water{
+		display:none;
+		display:none;
+		position: absolute;
+		left: 1230px;
+		top: 440px;
+		font: 40px futura, sans-serif;
+		}
+		
+		#rayyan_elec{
+		display:none;
+		position: absolute;
+		left: 1230px;
+		top: 670px;
+		font: 40px futura, sans-serif;
+		}
+		
+		#rayyan_sewage{
+		display:none;
+		position: absolute;
+		top: 560px;
+		left: 1230px;
+		font: 40px futura, sans-serif;
+		}
+		
+		#rayyan_internet{
+		display:none;
+		position: absolute;
+		top:790px;
+		left:1230px;
+		font: 40px futura, sans-serif;
+		}
+		
+		/*
+		* This is the highlighted style for the text for the water divs values
+		*/
+		#water{
+			background: black;
+			height: 100px;
+			width: 340px;
+			margin-top:-5px;
+			margin-left:72px;
+			text-align: center;
+			font: 60px futura, sans-serif;
+			color: #29ABE2;
+		}
+		
+		/*
+		* This is the highlighted style for the text for the sewage divs values
+		*/
+		#sewage{
+			background: black;
+			height: 100px;
+			width: 340px;
+			margin-top: -100px;
+			margin-left: 410px;
+			text-align: center;
+			font: 60px futura, sans-serif;
+			color: #F7931E;
+		}
+		
+		/*
+		* This is the highlighted style for the text for the electricity divs values
+		*/
+		#electricity{
+			background: black;
+			height: 100px;
+			width: 340px;
+			margin-top:-100px;
+			margin-left:720px;
+			text-align: center;
+			font: 60px futura, sans-serif;
+			color: #FBEC5D;
+			
+		}
+		
+		/*
+		* This is the highlighted style for the text for the internet divs values
+		*/
+		#internet{
+			background: black;
+			height: 100px;
+			width: 340px;
+			margin-top:-100px;
+			margin-left:1030px;
+			text-align: center;
+			font: 60px futura, sans-serif;
+			color: #8CC63F;
+		}
+		
+		/*
+		* This is the div for the water tab to be clicked
+		*/
+		
+		#water:hover{
+			background: #4D4D4D;
+			cursor: hand
+		}
+		
+		/*
+		* This is the div for the sewage tab to be clicked
+		*/
+		
+		#sewage:hover{
+			background: #4D4D4D;
+			cursor: hand
+		}
+		
+		/*
+		* This is the div for the electricity tab to be clicked
+		*/
+		#electricity:hover{
+			background: #4D4D4D;
+			cursor: hand
+		}
+		
+		/*
+		* This is the div for the internet tab to be clicked
+		*/
+		#internet:hover{
+			background: #4D4D4D;
+			cursor: hand
+		}
+		
+		/*
+		* This is the div for the sewage text to be clicked
+		*/
+		#sewage_text{
+			color: #F7931E;
+			font: 20px futura, sans-serif;
+		}
+		
+		#water_text{
+			color: #29ABE2;
+			font: 20px futura, sans-serif;
+		}
+		
+		#electricity_text{
+			color: #FBEC5D;
+			font: 20px futura, sans-serif;
+		}
+		
+		#internet_text{
+			color: #8CC63F;
+			font: 20px futura, sans-serif;
+		}
+		
+		#content{
+			color: "black";
+			font: 15px futura, sans-serif;
+		}
+		
+		#qatar_info{
+			color: "black";
+			font: 30px futura, sans-serif;
+		}
+	
+		h1{
+			margin-top: 100px;
+			color: "black";
+			font: 30px futura, sans-serif;
+			font-weight: bold;
+		  }
+		  
+		p{
+			color: "black";
+			font: 15px futura, sans-serif;
+			width: 500px;
+			height: 1000px;
+			margin-top: 30px;
+		}
+		
+		#img_sewage{
+			display:none;
+			margin-top: -900px;
+			margin-left: 300px;
+		}
+		
+		#img_internet{
+			display: none;
+			margin-top: -900px;
+			margin-left: 300px;
+		}
+		
+		#img_elec{
+			display: none;
+			margin-top: -900px;
+			margin-left: 300px;
+		}
+		#img_water{
+			display: none;
+			margin-top: -900px;
+			margin-left: 300px;
+		}
